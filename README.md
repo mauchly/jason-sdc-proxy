@@ -4,10 +4,10 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/mauchly/andy-sdc-service.git
+  - https://github.com/mauchly/joshua-sdc-service.git
+  - https://github.com/mauchly/mervin-sdc-service.git
+  - https://github.com/mauchly/jason-sdc-service.git
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@
 
 ## Usage
 
-> Some usage instructions
+> usage instructions pending...
 
 ## Requirements
 

@@ -1,6 +1,6 @@
-# Project Name
+# jason-sdc-proxy
 
-> Project description
+> Airbnb Mockup Reverse Proxy
 
 ## Related Projects
 
@@ -36,4 +36,3 @@ From within the root directory:
 npm install -g webpack
 npm install
 ```
-

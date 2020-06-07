@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: "api-jason_FEC_proxy",
+    name: "sdc_proxy-api",
     script: "./server/index.js",
     watch: true,
     env: {

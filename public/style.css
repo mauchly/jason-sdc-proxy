@@ -198,5 +198,5 @@ div.listing {
 }
 
 #PhotoService.photoGalButton {
-  bottom: 570px;
+  bottom: 570px !important;
 }

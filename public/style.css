@@ -197,6 +197,6 @@ div.listing {
   margin-top: -85px;
 }
 
-#PhotoService.photoGalButton {
-  bottom: 570px !important;
+#PhotoService .photoGalButton {
+  bottom: 575px !important;
 }

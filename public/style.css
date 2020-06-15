@@ -196,3 +196,7 @@ div.listing {
 #recommendations #rightScroll {
   margin-top: -85px;
 }
+
+#PhotoService.photoGalButton {
+  margin-top: 100px;
+}

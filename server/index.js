@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 80;
+const port = 3000;
 const bodyParser = require('body-parser');
 const fullPath = '/home/ubuntu/jason-sdc-proxy/client/public/index.html';
 const path = require('path');

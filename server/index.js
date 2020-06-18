@@ -16,7 +16,7 @@ app.use(function(req, res, next) {
 app.use(express.static(__dirname + '/../public'));
 app.use('/:id', express.static(__dirname + '/../public/index.html'));
 
-app.get('loaderio-4deae93abd54e337b154b38197381d25', (req, res) => {
+app.get('/loaderio-4deae93abd54e337b154b38197381d25', (req, res) => {
   res.send(loaderioFile);
 });
 

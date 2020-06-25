@@ -217,7 +217,7 @@ div#recommendations {
   position: absolute;
 }
 
-input #viewPhotos {
+input#viewPhotos {
   position: relative;
   bottom: 100px;
   background-color: green;

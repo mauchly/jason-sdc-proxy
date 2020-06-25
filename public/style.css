@@ -51,7 +51,7 @@ table {
 
 #reservationParent {
   position: absolute;
-  top: 625px;
+  top: 615px;
   right: 200px;
   height: 136.75%;
 }
@@ -126,7 +126,7 @@ Button#adultMinus {
 
 #afterReviews1 {
   position: relative;
-  top: 5px;
+  top: 0;
   left: 0;
   height: 800px;
   width: 600px;

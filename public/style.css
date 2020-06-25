@@ -213,6 +213,10 @@ div#reviews {
   margin: 0 65px;
 }
 
-div #recommendations {
+div#recommendations {
   position: absolute;
+}
+
+input#viewPhotos {
+  margin-bottom: 200px;
 }

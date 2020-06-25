@@ -220,6 +220,5 @@ div#recommendations {
 input#viewPhotos {
   position: absolute;
   bottom: 500px;
-  left: 0;
-  background-color: green;
+  left: 100px;
 }

@@ -26,7 +26,7 @@ table {
   width: device-width;
 }
 
-/* .priceBreakup {
+.priceBreakup {
   z-index: 1;
   margin-top: 15px;
 }
@@ -132,14 +132,14 @@ Button#adultMinus {
 }
 
 #afterReviews2 {
-  position: absolute;
+  position: relative;
   height: 550px;
   width: 500px;
   margin: 0 10px 25px 120px;
 }
 
 #afterReviews3 {
-  position: absolute;
+  position: relative;
   height: 375px;
   width: 500px;
   margin: 5px 0 20px 117px;
@@ -149,7 +149,7 @@ Button#adultMinus {
   height: 600px;
   width: 85%;
   margin: 0 40px 0 150px;
-  position: absolute;
+  position: relative;
   bottom: 0;
   left: 0;
 }
@@ -211,4 +211,4 @@ div#reviews {
 
 div #recommendations {
   position: absolute;
-} */
+}

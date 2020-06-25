@@ -26,7 +26,7 @@ table {
   width: device-width;
 }
 
-.priceBreakup {
+/* .priceBreakup {
   z-index: 1;
   margin-top: 15px;
 }
@@ -211,4 +211,4 @@ div#reviews {
 
 div #recommendations {
   position: absolute;
-}
+} */

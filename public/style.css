@@ -124,10 +124,6 @@ Button#adultMinus {
   margin: auto 1.25px auto auto;
 }
 
-#reviews {
-  margin: 0 65px;
-}
-
 #afterReviews1 {
   height: 800px;
   width: 600px;
@@ -201,10 +197,11 @@ div.listing {
   bottom: 590px !important;
 }
 
-div #reviews {
+div#reviews {
   position: absolute;
   top: 1000px;
   left: 0;
+  margin: 0 65px;
 }
 
 div #recommendations {

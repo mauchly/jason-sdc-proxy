@@ -236,3 +236,16 @@ div .title {
 #recDiv {
   background-color: green;
 }
+
+#recommendations .title {
+  overflow-wrap: break-word !important;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif !important;
+  font-size: 24px !important;
+  font-weight: 600 !important;
+  line-height: 1.25em !important;
+  color: rgb(72, 72, 72) !important;
+  margin: 2px 6px 0px 6px;
+  padding-bottom: 20px;
+  padding-left: 31px;
+  padding-top: 0 !important;
+}

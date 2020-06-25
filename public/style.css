@@ -1,4 +1,4 @@
-/* HTML5 display-role reset for older browsers
+HTML5 display-role reset for older browsers
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -24,7 +24,7 @@ table {
 
 @-ms-viewport{
   width: device-width;
-} */
+}
 
 .priceBreakup {
   z-index: 1;
@@ -154,7 +154,7 @@ Button#adultMinus {
   width: 85%;
   margin: 0 40px 0 150px;
   position: relative;
-  top: 5px;
+  top: 2000px;
   left: 0;
 }
 

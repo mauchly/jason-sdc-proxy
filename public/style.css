@@ -136,7 +136,7 @@ Button#adultMinus {
 #afterReviews2 {
   position: relative;
   top: 5px;
-  left: 5px;
+  left: 20px;
   height: 550px;
   width: 500px;
   margin: 0 10px 25px 20px;
@@ -144,7 +144,7 @@ Button#adultMinus {
 
 #afterReviews3 {
   position: relative;
-  top: 5px;
+  top: 0;
   left: 0;
   height: 375px;
   width: 500px;

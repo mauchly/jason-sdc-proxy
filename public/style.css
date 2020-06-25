@@ -153,8 +153,8 @@ Button#adultMinus {
   height: 600px;
   width: 85%;
   margin: 0 40px 0 150px;
-  position: relative;
-  top: 2000px;
+  position: absolute;
+  top: 5000px;
   left: 0;
 }
 

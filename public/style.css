@@ -136,11 +136,11 @@ Button#adultMinus {
 
 #afterReviews2 {
   position: relative;
-  top: 1500px;
+  top: 500px;
   left: 0;
   height: 550px;
   width: 500px;
-  margin: 0 10px 25px 120px;
+  margin: 0 10px 25px 20px;
 }
 
 #afterReviews3 {

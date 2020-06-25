@@ -125,6 +125,9 @@ Button#adultMinus {
 }
 
 #afterReviews1 {
+  position: relative;
+  top: 5px;
+  left: 0;
   height: 800px;
   width: 600px;
   margin: 90px 20px 80px 80px;

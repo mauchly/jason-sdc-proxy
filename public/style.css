@@ -203,7 +203,7 @@ div.listing {
 }
 
 #PhotoService .photoGalButton {
-  bottom: 590px !important;
+  bottom: 590px;
 }
 
 div#reviews {

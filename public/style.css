@@ -186,14 +186,14 @@ div.listing {
   display: none;
 }
 
-#recommendations #leftScroll {
+/* #recommendations #leftScroll {
   margin-top: -85px;
   margin-left: -21px;
 }
 
 #recommendations #rightScroll {
   margin-top: -85px;
-}
+} */
 
 #PhotoService .photoGalButton {
   bottom: 590px;

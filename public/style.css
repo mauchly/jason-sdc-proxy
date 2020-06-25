@@ -214,7 +214,7 @@ div#reviews {
 }
 
 div#recommendations {
-  position: absolute;
+  position: relative;
   top: 4000px;
   left: 0;
 }

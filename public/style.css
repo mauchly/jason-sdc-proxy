@@ -149,15 +149,6 @@ Button#adultMinus {
   margin: 5px 0 20px 117px;
 }
 
-#afterReviews4 {
-  height: 600px;
-  width: 85%;
-  margin: 0 40px 0 150px;
-  position: relative;
-  top: 5000px;
-  left: 0;
-}
-
 .guestsFrame {
   border-color: rgba(0, 0, 0, 0.5);
 }
@@ -216,6 +207,15 @@ div#reviews {
 div#recommendations {
   position: absolute;
   top: 4000px;
+  left: 0;
+}
+
+#afterReviews4 {
+  height: 600px;
+  width: 85%;
+  margin: 0 40px 0 150px;
+  position: relative;
+  top: 5px;
   left: 0;
 }
 

@@ -149,6 +149,9 @@ Button#adultMinus {
   height: 600px;
   width: 85%;
   margin: 0 40px 0 150px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 
 .guestsFrame {

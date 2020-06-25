@@ -227,5 +227,6 @@ input#viewPhotos {
 }
 
 div .title {
+  background-color: green;
   margin-top: 30px;
 }

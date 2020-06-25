@@ -222,8 +222,8 @@ div#recommendations {
 }
 
 input#viewPhotos {
-  position: absolute;
-  bottom: 1000px !important;
+  position: relative;
+  bottom: 100px !important;
 }
 
 div .title {

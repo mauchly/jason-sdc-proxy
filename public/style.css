@@ -202,8 +202,9 @@ div.listing {
 }
 
 div #reviews {
-  position: relative;
-  margin-top: 1000px;
+  position: absolute;
+  top: 1000px;
+  left: 0;
 }
 
 div #recommendations {

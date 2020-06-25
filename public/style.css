@@ -205,8 +205,8 @@ div#reviews {
 }
 
 div#recommendations {
-  position: absolute;
-  top: 4000px;
+  position: relative;
+  top: 4px;
   left: 0;
 }
 
